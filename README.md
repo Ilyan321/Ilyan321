@@ -27,6 +27,6 @@ I am a **Computer Systems Engineering** student at **QUEST, Nawabshah** (Roll No
 ### 🤝 Connect with Me
 * **GitHub:** [Ilyan321](https://github.com/Ilyan321)
 * **LinkedIn:** [Ilyan khan](https://www.linkedin.com/in/ilyan-khan-480341359)
-
+* **Email:** [Ilyan khan](ilyaankhan342@gmail.com)
 ---
 *"Dedicated to writing clean, efficient, and logical code."*
