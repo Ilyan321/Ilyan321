@@ -7,7 +7,14 @@ I am a **Computer Systems Engineering** student at **QUEST, Nawabshah** (Roll No
 * **C++ & DSA:** Solving complex problems through optimized Data Structures and Algorithms.
 * **Internship:** Leveling up my C++ skills as an intern at **Arch Technologies**.
 
-### 🛠️ Technical Toolkit
+### 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 * **Languages:** C++ (Advanced Logic), Python (App Dev), HTML/CSS.
 * **Systems:** Proficient in **Kali** and Linux environments for development.
 * **Current Study:** Implementing Queues, Deques, and Circular Queues in C++.
