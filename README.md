@@ -10,7 +10,9 @@
 
 <div align="center">
   <a href="https://ilyankhan.tech"><img src="https://img.shields.io/badge/Portfolio-ilyankhan.tech-08090A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ilyan-khan-480341359"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/Ilyankhan69"><img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></a>
 </div>
 
@@ -18,7 +20,7 @@
 
 ### ✦ About Me
 
-I am a **Computer Systems Engineer** moving past the fundamentals and building production-grade software. I specialize in bridging the gap between extreme mechanical luxury in UI design and bleeding-edge backend systems. Whether I am fine-tuning a Large Language Model, engineering a high-speed vector search pipeline, or writing manual memory pointers in C++, I prioritize software that is fast, mathematically verifiable, and practically useful in real hands.
+I am a **Computer Systems Engineer** moving past the fundamentals and building production-grade software. I specialize in **Full-Stack Development**, bridging the gap between extreme mechanical luxury in frontend UI design (Next.js/React) and bleeding-edge backend database systems (PostgreSQL/Supabase). Whether I am architecting a full-stack web application, fine-tuning a Large Language Model, or writing manual memory pointers in C++, I prioritize software that is fast, highly scalable, and practically useful in real hands.
 
 * 📍 **Location:** Available Worldwide
 * 🎓 **Academics:** 2nd Year Computer Systems Engineering @ QUEST Nawabshah
@@ -56,9 +58,7 @@ I am a **Computer Systems Engineer** moving past the fundamentals and building p
 
 ---
 
-### 📈 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilyan321&show_icons=true&theme=radical&hide_border=true&bg_color=08090A&title_color=F3EFEA&text_color=A39E95&icon_color=3ECF8E" alt="Ilyan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyan321&layout=compact&theme=radical&hide_border=true&bg_color=08090A&title_color=F3EFEA&text_color=A39E95" alt="Top Languages" />
+  <br>
+  <p><em>"Dedicated to writing clean, efficient, and mathematically verifiable code."</em></p>
 </div>
