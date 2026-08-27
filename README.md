@@ -1,32 +1,64 @@
-# Hi there, I'm Ilyan Khan! 👋
+<div align="center">
+  <a href="https://ilyankhan.tech" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F3EFEA&background=08090A&center=true&vCenter=true&width=600&lines=Ilyan+Khan;Systems+%26+AI+Engineer;Full-Stack+Architect;Generative+AI+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
-I am a **Computer Systems Engineering** student at **QUEST, Nawabshah** (Roll No: 24CSE24), currently focused on mastering software logic and efficient programming.
+<p align="center">
+  <em>Architecting the intersection of high-fidelity user interfaces, scalable software systems, and artificial intelligence.</em>
+</p>
 
-### 💻 Core Focus
-* **Python Development:** Building functional apps and automation scripts (Check out my Student Expense Tracker!).
-* **C++ & DSA:** Solving complex problems through optimized Data Structures and Algorithms.
-* **Internship:** Leveling up my C++ skills as an intern at **Arch Technologies**.
+<div align="center">
+  <a href="https://ilyankhan.tech"><img src="https://img.shields.io/badge/Portfolio-ilyankhan.tech-08090A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/ilyan-khan-480341359"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://huggingface.co/Ilyankhan69"><img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></a>
+</div>
 
-### 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br>
 
-* **Languages:** C++ (Advanced Logic), Python (App Dev), HTML/CSS.
-* **Systems:** Proficient in **Kali** and Linux environments for development.
-* **Current Study:** Implementing Queues, Deques, and Circular Queues in C++.
+### ✦ About Me
 
-### 📊 Featured Repositories
-* **[Python-Learning](https://github.com/Ilyan321/Python-Learning):** A collection of every Python program and project I've built.
-* **[DataStructuresandAlgorithms](https://github.com/Ilyan321/DataStructuresandAlgorithms):** University-level DSA implementations in C++.
-* **[Student_Expense_Tracker](https://github.com/Ilyan321/Student_Expense_Tracker):** Python & Streamlit project for real-time budget management.
+I am a **Computer Systems Engineer** moving past the fundamentals and building production-grade software. I specialize in bridging the gap between extreme mechanical luxury in UI design and bleeding-edge backend systems. Whether I am fine-tuning a Large Language Model, engineering a high-speed vector search pipeline, or writing manual memory pointers in C++, I prioritize software that is fast, mathematically verifiable, and practically useful in real hands.
 
-### 🤝 Connect with Me
-* **GitHub:** [Ilyan321](https://github.com/Ilyan321)
-* **LinkedIn:** [Ilyan khan](https://www.linkedin.com/in/ilyan-khan-480341359)
-* **Email:** [Ilyan khan](ilyaankhan342@gmail.com)
+* 📍 **Location:** Available Worldwide
+* 🎓 **Academics:** 2nd Year Computer Systems Engineering @ QUEST Nawabshah
+* 💡 **Currently Building:** High-performance Full-Stack Web Apps (Next.js/React) & Generative AI Systems (PyTorch/LoRA)
+
 ---
-*"Dedicated to writing clean, efficient, and logical code."*
+
+### 🛠️ Architecture & Tech Stack
+
+**Artificial Intelligence & Data Processing**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/SciKit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+**Web Engineering & Databases**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+**Systems & Core Logic**
+<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+---
+
+### 🚀 Flagship Engineering Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[ÆTHEL Haute Horlogerie](https://ilyankhan.tech)** | Ultra-luxury 3D cinematic web experience utilizing a custom HTML5 Canvas Web Worker for 60fps frame-by-frame rendering and GSAP scroll kinematics. | `Next.js` `React` `GSAP` |
+| **[EduFocus Attendance Portal](https://ilyankhan.tech)** | Enterprise-grade Single Page Application solving manual attendance tracking, featuring real-time Supabase sync, RLS security, and CSV data generation. | `React` `Vite` `Supabase` |
+| **[Hogwarts Archivist](https://ilyankhan.tech)** | High-speed conversational engine combining LangChain vector search, FAISS similarity indexing, and Groq LLaMA-3 with verifiable source attribution. | `LangChain` `FAISS` `LLMs` |
+| **[Slasher-Vision-35mm](https://ilyankhan.tech)** | PyTorch LoRA fine-tuning for Stable Diffusion XL (SDXL) designed to synthesize authentic 1980s 35mm film grain and anamorphic cinematography. | `PyTorch` `SDXL` `LoRA` |
+| **[Schema-Aware SQL Agent](https://ilyankhan.tech)** | LoRA fine-tuned LLaMA-3 model shielded by a deterministic Python AST parser to intercept SQL injection and strictly translate natural language to database queries. | `PyTorch` `LLaMA-3` `SQL` |
+
+*(See full technical case studies and deep-dives at **[ilyankhan.tech](https://ilyankhan.tech)**)*
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilyan321&show_icons=true&theme=radical&hide_border=true&bg_color=08090A&title_color=F3EFEA&text_color=A39E95&icon_color=3ECF8E" alt="Ilyan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyan321&layout=compact&theme=radical&hide_border=true&bg_color=08090A&title_color=F3EFEA&text_color=A39E95" alt="Top Languages" />
+</div>
