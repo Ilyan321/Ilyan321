@@ -64,13 +64,13 @@ I am a **Computer Systems Engineer** moving past the fundamentals and building p
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ilyan321&show_icons=true&theme=dark&bg_color=08090A&title_color=F3EFEA&text_color=a0a0a0&icon_color=F3EFEA&border_color=1f1f1f&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ilyan321&show_icons=true&hide_border=true&bg_color=08090A&title_color=F3EFEA&text_color=a0a0a0&icon_color=F3EFEA&count_private=true&include_all_commits=true&cache_seconds=7200&rank_icon=github" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyan321&layout=compact&theme=dark&bg_color=08090A&title_color=F3EFEA&text_color=a0a0a0&border_color=1f1f1f&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyan321&layout=compact&hide_border=true&bg_color=08090A&title_color=F3EFEA&text_color=a0a0a0&langs_count=8&cache_seconds=7200&exclude_repo=Ilyan321" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ilyan321&theme=dark&background=08090A&ring=F3EFEA&fire=F3EFEA&currStreakLabel=F3EFEA&sideLabels=a0a0a0&dates=a0a0a0&border=1f1f1f&stroke=1f1f1f" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ilyan321&theme=dark&background=08090A&ring=F3EFEA&fire=F3EFEA&currStreakLabel=F3EFEA&sideLabels=a0a0a0&dates=a0a0a0&hide_border=true&stroke=1f1f1f" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -90,5 +90,5 @@ I am a **Computer Systems Engineer** moving past the fundamentals and building p
 <div align="center">
   <br>
   <p><em>"Dedicated to writing clean, efficient, and mathematically verifiable code."</em></p>
-  <img src="https://komarev.com/ghpvc/?username=Ilyan321&color=F3EFEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ilyan321&color=1a1a1a&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views"/>
 </div>
