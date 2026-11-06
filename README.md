@@ -55,6 +55,8 @@ I am a **Computer Systems Engineer** moving past the fundamentals and building p
 | **[Hogwarts Archivist](https://github.com/Ilyan321/Hogwarts_Archivist)** | High-speed conversational engine combining LangChain vector search, FAISS similarity indexing, and Groq LLaMA-3 with verifiable source attribution. | `LangChain` `FAISS` `LLMs` |
 | **[Slasher-Vision-35mm](https://github.com/Ilyan321/Slasher-Vision-35mm)** | PyTorch LoRA fine-tuning for Stable Diffusion XL (SDXL) to synthesize authentic 1980s 35mm film grain and anamorphic cinematography. | `PyTorch` `SDXL` `LoRA` |
 | **[Schema-Aware SQL Agent](https://github.com/Ilyan321/Schema-Aware-SQL-Agent)** | LoRA fine-tuned LLaMA-3 shielded by a deterministic Python AST parser to intercept SQL injection and translate natural language to database queries. | `PyTorch` `LLaMA-3` `SQL` |
+| **[EchoForge](https://github.com/Ilyan321/echoforge)** | Autonomous hands-free edge metrology AI assistant for aerospace manufacturing with Alexa+ & AWS Bedrock AgentCore. |     |
+| **[HaqDar (حقدار)](https://github.com/Ilyan321/haqdar)** | AI-powered women's inheritance rights recovery platform featuring an 8-Agent Swarm with deterministic Sharia Faraizi Engine. |    |
 | **[VibeGuard](https://github.com/Ilyan321/VibeGuard)** | AI-powered content moderation engine using a fine-tuned DistilBERT model to detect and classify toxic content in real-time. | `DistilBERT` `NLP` `Python` |
 
 *(See full technical case studies and deep-dives at **[ilyankhan.tech](https://ilyankhan.tech)**)*
