@@ -25,7 +25,7 @@
 I am a **Computer Systems Engineer** moving past the fundamentals and building production-grade software. I specialize in **Full-Stack Development**, bridging the gap between extreme mechanical luxury in frontend UI design (Next.js/React) and bleeding-edge backend database systems (PostgreSQL/Supabase). Whether I am architecting a full-stack web application, fine-tuning a Large Language Model, or writing manual memory pointers in C++, I prioritize software that is fast, highly scalable, and practically useful in real hands.
 
 * 📍 **Location:** Available Worldwide
-* 🎓 **Academics:** 2nd Year Computer Systems Engineering @ QUEST Nawabshah
+* 🎓 **Academics:** 3rd Year Computer Systems Engineering @ QUEST Nawabshah
 * 💡 **Currently Building:** High-performance Full-Stack Web Apps (Next.js/React) & Generative AI Systems (PyTorch/LoRA)
 
 ---
